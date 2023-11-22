@@ -7,3 +7,10 @@ My config of the kitty terminal emulator.
 - FiraCode font
 - Symbols nerd font
 - pywal
+
+## Mappings
+
+| Mapping        | Action |
+| -------------- | ------ |
+| Right click    | Paste  |
+| Highlight Text | Copy   |
